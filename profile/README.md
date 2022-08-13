@@ -9,7 +9,17 @@
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[![Huluoluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zTgx)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/HuluoluoTech/count.svg" />
+</p>
+
 Focus on Games.
 
 * Languages  
