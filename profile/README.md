@@ -19,17 +19,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/HuluoluoTech/count.svg" />
 </p>
-
-Focus on Games.
-
-* Languages  
-Rust / Modern C++ / Lua / C#
-
-* System  
-Linux / Windows
-
-* Engines  
-Directx12 / OpenGL
-
-* Networking  
-Skynet / nakama / Asio and others
